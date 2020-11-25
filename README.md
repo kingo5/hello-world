@@ -12,3 +12,6 @@ https://docs.microsoft.com/en-us/visualstudio/test/unit-test-basics?view=vs-2019
 
 TDD sample explain by WangEr
 https://www.cnblogs.com/qing-gee/p/11089944.html
+
+TDD introduction
+https://www.ibm.com/developerworks/cn/linux/l-tdd/index.html

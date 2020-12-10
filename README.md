@@ -24,3 +24,7 @@ https://www.jianshu.com/p/8b71e591abbd
 
 xuan diao sheng
 https://ggfw.gdhrss.gov.cn/yxks/center.do?nvt=1607436773350
+
+
+trust model
+http://www.doc88.com/p-7488664580623.html

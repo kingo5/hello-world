@@ -42,3 +42,7 @@ https://blog.csdn.net/abcdefg90876/article/details/104438400
 
 java-API 中文版
 https://tool.oschina.net/apidocs/apidoc?api=jdk-zh
+
+
+juc笔记
+https://gitee.com/moxi159753/LearningNotes/tree/master/%E6%A0%A1%E6%8B%9B%E9%9D%A2%E8%AF%95/JUC

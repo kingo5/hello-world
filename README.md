@@ -29,9 +29,13 @@ https://ggfw.gdhrss.gov.cn/yxks/center.do?nvt=1607436773350
 embedding
 
 https://spaces.ac.cn/archives/4122
+
 https://blog.csdn.net/weixin_42078618/article/details/82999906
+
 https://blog.csdn.net/weixin_42078618/article/details/84553940
+
 https://www.cnblogs.com/USTC-ZCC/p/11068791.html
+
 https://zhuanlan.zhihu.com/p/26306795 知乎-[NLP] 秒懂词向量Word2vec的本质
 
 知乎-构建可解释的推荐系统

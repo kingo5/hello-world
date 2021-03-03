@@ -53,3 +53,6 @@ https://gitee.com/moxi159753/LearningNotes/tree/master/%E6%A0%A1%E6%8B%9B%E9%9D%
 
 java笔记博客
 https://blog.csdn.net/Pzzzz_wwy
+
+java矩阵分解
+cnblogs.com/little-horse/p/12623223.html

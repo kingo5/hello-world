@@ -56,3 +56,6 @@ https://blog.csdn.net/Pzzzz_wwy
 
 java矩阵分解
 cnblogs.com/little-horse/p/12623223.html
+
+python 画图
+https://blog.csdn.net/gaotihong/article/details/80983937

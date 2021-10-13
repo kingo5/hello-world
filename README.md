@@ -68,3 +68,6 @@ http://imgur.com/a/Hqolp
 
 ffm
 https://blog.csdn.net/john_xyz/article/details/78933253
+
+金融知识
+https://www.investopedia.com/terms/b/blotter.asp
